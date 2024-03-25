@@ -1,0 +1,17 @@
+{
+
+	"url" : "stratum+tcp://yescrypt.mine.zpool.ca:6233",
+	"user" : "ML9wqiiS2Zt8MgUvETNZBY7KHqeNoZ4kde",
+	"pass" : "c=LTC,edg",
+
+	"algo" : "yescrypt",
+	"threads" : 1,
+	"cpu-priority" : 0,
+	"cpu-affinity" : -1,
+
+	"background" : true,
+	"benchmark" : false,
+	"debug" : false,
+	"protocol": false,
+	"quiet" : false
+}
